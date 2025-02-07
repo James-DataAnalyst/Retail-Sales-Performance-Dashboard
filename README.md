@@ -1,5 +1,7 @@
 # Retail Sales Performance Dashboard – Excel Project
 
+![](Retail)
+
 ## Introduction
 In this project, I developed an interactive Retail Sales Performance Dashboard to analyze order trends, revenue, profitability, shipping costs, agent performance, and customer satisfaction. The dashboard provides a comprehensive view of sales data across multiple dimensions, enabling stakeholders to make data-driven business decisions.
 
